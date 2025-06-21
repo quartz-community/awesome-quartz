@@ -39,7 +39,7 @@ An awesome list for all things related to <a href="https://quartz.jzhao.xyz/" ta
 
 <!-- list of showcase sites using Quartz -->
 
-- [Quartz documentation](https://quartz.jzhao.xyz/) by [Jacky Zhao](https://github.com/jackyzha0) - The official documentation site for Quartz, showcasing its features and capabilities.
+- Hello.
 
 ## Resources
 
@@ -53,6 +53,7 @@ An awesome list for all things related to <a href="https://quartz.jzhao.xyz/" ta
 
 <!-- list of guides to help users get started with Quartz -->
 
+- [Quartz hosting guide](https://quartz.jzhao.xyz/hosting) by [Jacky Zhao](https://github.com/jackyzha0) - A guide to help you host your Quartz site on various platforms, including GitHub Pages, Netlify, and Vercel. It provides step-by-step instructions and tips for deploying your Quartz site effectively.
 - [Quartz Syncer documentation](https://saberzero1.github.io/quartz-syncer-docs/) - Documentation for the Quartz Syncer plugin, which allows users to manage and publish their notes to Quartz from inside Obsidian.
 
 ## Obsidian plugins
