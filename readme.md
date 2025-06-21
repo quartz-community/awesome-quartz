@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-An awesome list for all things related to <a href="https://quartz.jzhao.xyz/" target="_blank" rel="noopener noreferrer">Quartz</a>!
+An awesome list for all things related to Quartz!
 
 <!-- image -->
 
