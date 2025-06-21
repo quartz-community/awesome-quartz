@@ -46,7 +46,7 @@ An awesome list for all things related to <a href="https://quartz.jzhao.xyz/" ta
 <!-- list of resources related to Quartz -->
 
 - [Quartz cheatsheet](https://quartz.eilleeenz.com/Quartz-Cheatsheet) by [Eilleen](https://www.eilleeenz.com/) - A comprehensive cheatsheet for Quartz, providing quick references and tips for users to get the most out of the platform.
-- [Quartz snippets](https://quartz.eilleeenz.com/Quartz-Snippets) by [Eilleen](https://www.eilleeenz.com/) - A collection of useful snippets for Quartz, helping users to enhance their sites with custom code and functionality.
+- [Quartz snippets](https://quartz.eilleeenz.com/Quartz-Snippets) by Eilleen - A collection of useful snippets for Quartz, helping users to enhance their sites with custom code and functionality.
 - [Quartz documentation on Deepwiki](https://deepwiki.com/jackyzha0/quartz) - Deepwiki is a platform that allows you to interact with documentation using natural language, making it easier to find answers and understand concepts related to Quartz.
 
 ## Guides
@@ -59,14 +59,14 @@ An awesome list for all things related to <a href="https://quartz.jzhao.xyz/" ta
 
 <!-- list of Obsidian plugins that are useful for Quartz users -->
 
-- [Enveloppe](https://enveloppe.ovh/) by [Mara-Li](https://github.com/Mara-Li) - Enveloppe is a remarkable plugin to enable effortless publishing of files to a GitHub-based site. Options to configure, customize, and transform vault files result in an incredibly personalized site regardless of your syntax. You will absolutely love it and it’s open source 💙
+- [Enveloppe](https://enveloppe.ovh/) by [Mara-Li](https://github.com/Mara-Li) - Enveloppe is a remarkable plugin to enable effortless publishing of files to a GitHub-based site. Options to configure, customize, and transform vault files result in an incredibly personalized site regardless of your syntax. You will absolutely love it and it is open source 💙
 - [Quartz Syncer](https://github.com/saberzero1/quartz-syncer) by [Emile Bangma](https://github.com/saberzero1) - Manage and publish your notes to Quartz from inside Obsidian. Further exhances the Quartz experience by allowing users to integrate various Obsidian pluaings and features into their Quartz sites, such as Dataview, Datacore, and more.
 
 ## Quartz plugins
 
 <!-- list of Quartz plugins -->
 
-...
+- Empty.
 
 <!-- END CONTENT -->
 
