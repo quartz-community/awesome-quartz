@@ -61,7 +61,7 @@ Quartz is a fast, batteries-included static-site generator that transforms Markd
 <!-- list of Obsidian plugins that are useful for Quartz users -->
 
 - [Enveloppe](https://enveloppe.ovh/) by [Mara-Li](https://github.com/Mara-Li) - Enveloppe is a remarkable plugin to enable effortless publishing of files to a GitHub-based site. Options to configure, customize, and transform vault files result in an incredibly personalized site regardless of your syntax. You will absolutely love it and it is open source 💙
-- [Quartz Syncer](https://github.com/saberzero1/quartz-syncer) by [Emile Bangma](https://github.com/saberzero1) - Manage and publish your notes to Quartz from inside Obsidian. Further exhances the Quartz experience by allowing users to integrate various Obsidian pluaings and features into their Quartz sites, such as Dataview, Datacore, and more.
+- [Quartz Syncer](https://github.com/saberzero1/quartz-syncer) by [Emile Bangma](https://github.com/saberzero1) - Manage and publish your notes to Quartz from inside Obsidian. Further exhances the Quartz experience by allowing users to integrate various Obsidian plugins and features into their Quartz sites, such as Dataview, Datacore, and more.
 
 ## Quartz plugins
 
