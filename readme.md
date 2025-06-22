@@ -73,9 +73,9 @@ Quartz is a fast, batteries-included static-site generator that transforms Markd
 
 ## Follow
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
+- [Jacky](https://github.com/jackyzha0)
+- [Emile](https://github.com/saberzero1)
+- [Eilleen](https://github.com/fanteastick)
 
 ## Contributing
 
