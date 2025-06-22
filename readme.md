@@ -67,7 +67,7 @@ Quartz is a fast, batteries-included static-site generator that transforms Markd
 
 <!-- list of Quartz plugins -->
 
-- Empty.
+- [Jupyter Notebook Embed](https://github.com/vazome/quartz-jupyter-embed-display) - A minimal Quartz plugin for embedding and displaying Jupyter notebooks, with setup instructions and required dependencies.
 
 <!-- END CONTENT -->
 
