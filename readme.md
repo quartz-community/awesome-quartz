@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Quartz   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/quartz-community/awesome-quartz/actions/workflows/lint.yaml/badge.svg)](https://github.com/quartz-community/awesome-quartz/actions/workflows/lint.yaml)
+# Awesome Quartz<br> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/quartz-community/awesome-quartz/actions/workflows/lint.yaml/badge.svg)](https://github.com/quartz-community/awesome-quartz/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
