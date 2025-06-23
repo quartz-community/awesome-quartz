@@ -40,6 +40,7 @@ Quartz is a fast, batteries-included static-site generator that transforms Markd
 <!-- list of showcase sites using Quartz -->
 
 - Hello.
+- [Huy Tran's Garden](https://huytrannn.me/)
 
 ## Resources
 
