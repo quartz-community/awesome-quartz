@@ -41,7 +41,7 @@ Quartz is a fast, batteries-included static-site generator that transforms Markd
 
 - [Jacky Zhao's Garden](https://jzhao.xyz/)
 - [Aaron Pham's Garden](https://aarnphm.xyz/)
-- [Emile Banhma's Second Brain](https://www.emilebangma.com/)
+- [Emile Bangma's Second Brain](https://www.emilebangma.com/)
 - [The Pond](https://turntrout.com/welcome)
 - [Eilleen's Everything Notebook](https://quartz.eilleeenz.com/)
 - [Morrowind Modding Wiki](https://morrowind-modding.github.io/)
