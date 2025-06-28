@@ -93,6 +93,7 @@ Quartz is a fast, batteries-included static-site generator that transforms Markd
 ## Follow
 
 - [Jacky](https://github.com/jackyzha0)
+- [Aaron](https://github.com/aarnphm)
 - [Emile](https://github.com/saberzero1)
 - [Eilleen](https://github.com/fanteastick)
 
