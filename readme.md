@@ -57,6 +57,7 @@ Quartz is a fast, batteries-included static-site generator that transforms Markd
 - [Eledah's Crystalline](https://blog.eledah.ir/)
 - [🌓 Projects & Privacy - FOSS, tech, law](https://be-far.com)
 - [Huy Tran's Garden](https://huytrannn.me/)
+- [Ava's Notes](https://notes.avas.space)
 
 ## Resources
 
