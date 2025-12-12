@@ -87,6 +87,7 @@ Quartz is a fast, batteries-included static-site generator that transforms Markd
 - [Clickable Images Zoom](https://github.com/vazome/quartz-clickable-images-zoom-plugin) - Adds Lightbox zoom for images.
 - [Jupyter Notebook Embed](https://github.com/vazome/quartz-jupyter-embed-display) - A minimal Quartz plugin for embedding and displaying Jupyter notebooks.
 - [Code Runner](https://github.com/Gassandrid/Quartz_CodeRunner_Plugin) - A simple, asynchronous Python code runner plugin for Quartz. This plugin allows you to run Python code blocks directly within your Quartz notes, providing a convenient way to execute and view the output of your Python scripts.
+- [Auto Card Link Renderer](https://github.com/Rerurate514/AutoCardLinkRenderer) - It enables rendering of the Obsidian plugin: AutoCardLinkTitle in Quartz.
 
 <!-- END CONTENT -->
 
